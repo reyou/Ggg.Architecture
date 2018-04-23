@@ -1,1 +1,7 @@
-Heaps are binary trees for which every parent node has a value less than or equal to any of its children.
+- If you think good architecture is expensive, try bad architecture.
+- Heaps are binary trees for which every parent node has a value less than or equal to any of its children.
+- all programs can be constructed from just three structures: sequence, selection, and iteration.
+- Science does not work by proving statements true, but rather by proving statements false.
+- mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable
+statements false.
+- 
