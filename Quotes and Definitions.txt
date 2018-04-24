@@ -4,4 +4,5 @@
 - Science does not work by proving statements true, but rather by proving statements false.
 - mathematics is the discipline of proving provable statements true. Science, in contrast, is the discipline of proving provable
 statements false.
+- a heap is a good structure for implementing schedulers
 - 
