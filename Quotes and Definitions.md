@@ -11,3 +11,4 @@ statements false.
 - Event sourcing is a strategy wherein we store the transactions, but not the state. When state is required, we simply apply
 all the transactions from the beginning of time.
 - If we have enough storage and enough processor power, we can make our applications entirely immutable—and, therefore, entirely functional.
+- An enumeration is a set of symbolic names (members) bound to unique, constant values.
