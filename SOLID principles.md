@@ -6,6 +6,10 @@ https://en.wikipedia.org/wiki/Single_responsibility_principle
 An active corollary to Conway’s law: The best structure for a software system is heavily 
 influenced by the social structure of the organization that uses it so
 that each software module has one, and only one, reason to change.
+A module should be responsible to one, and only one, actor. Cohesion is the force that binds together
+the code responsible to a single actor.
+
+Cohesion: 1. the state of cohering, or of sticking together; 2. the growing together of normally distinct parts of a plant; 3. the various intermolecular forces that hold solids and liquids together.
 
 • OCP: The Open-Closed Principle  
 https://en.wikipedia.org/wiki/Open/closed_principle  
@@ -21,7 +25,7 @@ parts must adhere to a contract that allows those parts to be substituted one fo
 another.
 
 • ISP: The Interface Segregation Principle  
-https://en.wikipedia.org/wiki/Interface_segregation_principle
+https://en.wikipedia.org/wiki/Interface_segregation_principle  
 This principle advises software designers to avoid depending on things that
 they don’t use.
 
