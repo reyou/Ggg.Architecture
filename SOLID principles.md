@@ -21,7 +21,9 @@ the Axis of Change responsible for the creation of Architectural Boundaries.
 https://en.wikipedia.org/wiki/Open/closed_principle  
 Bertrand Meyer made this principle famous in the 1980s. The gist is that for software 
 systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding new code, rather than
-changing existing code.
+changing existing code. In other words, the behavior of a software artifact ought to be extendible,
+without having to modify that artifact. A good software architecture would reduce the amount of changed code to the
+barest minimum. Ideally, zero.
 
 ## LSP: The Liskov Substitution Principle  
 https://en.wikipedia.org/wiki/Liskov_substitution_principle  
