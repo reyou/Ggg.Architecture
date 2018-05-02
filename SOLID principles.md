@@ -23,7 +23,13 @@ Bertrand Meyer made this principle famous in the 1980s. The gist is that for sof
 systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding new code, rather than
 changing existing code. In other words, the behavior of a software artifact ought to be extendible,
 without having to modify that artifact. A good software architecture would reduce the amount of changed code to the
-barest minimum. Ideally, zero.
+barest minimum. Ideally, zero. 
+
+The OCP is one of the driving forces behind the architecture of systems. The
+goal is to make the system easy to extend without incurring a high impact of
+change. This goal is accomplished by partitioning the system into components,
+and arranging those components into a dependency hierarchy that protects
+higher-level components from changes in lower-level components.
 
 ## LSP: The Liskov Substitution Principle  
 https://en.wikipedia.org/wiki/Liskov_substitution_principle  
