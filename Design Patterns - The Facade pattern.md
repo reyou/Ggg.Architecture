@@ -9,5 +9,6 @@ A facade is generally one exterior side of a building, usually, but not always, 
 
 ![](https://raw.githubusercontent.com/reyou/Ggg.Architecture/master/notes/The%20Facade%20pattern.PNG)
 
-
+The EmployeeFacade contains very little code. It is responsible for instantiating
+and delegating to the classes with the functions.
 
