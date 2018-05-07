@@ -12,3 +12,11 @@ statements false.
 all the transactions from the beginning of time.
 - If we have enough storage and enough processor power, we can make our applications entirely immutable—and, therefore, entirely functional.
 - An enumeration is a set of symbolic names (members) bound to unique, constant values.
+- At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
+- Sometimes, the fastest way to get to the end is to throw everything out and start over.
+- There is never a single right solution. There are always multiple wrong ones, though.
+- A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
+- Do what you can, where you are, with what you have.
+- A designer knows that he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
+
+
