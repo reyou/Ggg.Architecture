@@ -18,5 +18,8 @@ all the transactions from the beginning of time.
 - A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
 - Do what you can, where you are, with what you have.
 - A designer knows that he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
-
+- Dynamically typed languages create systems that are more flexible and less tightly coupled than statically typed languages. 
+- Don’t override concrete functions. Concrete functions often require source code dependencies. When you override those functions, you do not eliminate those dependencies—indeed, you inherit them. To manage those dependencies, you should make the function abstract and create multiple implementations.
+- Components are the units of deployment. They are the smallest entities that can be deployed as part of a system. In Java, they are jar files. In Ruby, they are gem files. In .Net, they are DLLs. In compiled languages, they are aggregations of binary files. In interpreted languages, they are aggregations of source files. In all languages, they are the granule of deployment.
+ 
 
