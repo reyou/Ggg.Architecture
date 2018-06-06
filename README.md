@@ -26,3 +26,4 @@ all the transactions from the beginning of time.
 - Components are the units of deployment. They are the smallest entities that can be deployed as part of a system. In Java, they are jar files. In Ruby, they are gem files. In .Net, they are DLLs. In compiled languages, they are aggregations of binary files. In interpreted languages, they are aggregations of source files. In all languages, they are the granule of deployment.
 - If something is exceptional you should throw an exception. 
 - A good architect maximizes the number of decisions not made.  
+- Conway’s law says: Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.  
