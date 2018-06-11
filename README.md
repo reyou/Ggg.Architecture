@@ -27,6 +27,6 @@ all the transactions from the beginning of time.
 - If something is exceptional you should throw an exception. 
 - A good architect maximizes the number of decisions not made.  
 - Conway’s law says: Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.  
-- Three-tier is not an architecture; it’s a topology (the properties of a particular technological embodiment that are not affected by differences in the physical layout or form of its application).  
+- Three-tier is not an architecture; it’s a topology (the properties of a particular technological embodiment (a physical entity typifying (to serve as a characteristic example of) an abstraction) that are not affected by differences in the physical layout or form of its application).  
 
 
