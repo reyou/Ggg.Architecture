@@ -30,5 +30,6 @@ all the transactions from the beginning of time.
 - Three-tier is not an architecture; it’s a topology (the properties of a particular technological embodiment (a physical entity typifying (to serve as a characteristic example of) an abstraction) that are not affected by differences in the physical layout or form of its application).  
 - Architectural goal is for lower-level processes to be plugins to higher-level processes.  
 - If the target is the only place where testing is possible, the target hardware bottleneck will slow you down.  
-
+- The framework may help you with some early features of your application. However, as your product matures, it may outgrow the facilities of the framework. If you’ve put on that wedding ring, you’ll find the framework fighting you more and more as time passes.  
+- 
 
