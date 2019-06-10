@@ -1,6 +1,7 @@
 # Ggg.Architecture
 Software Architecture related books, links, quotes etc.
 
+- A complex system that works is invariably found to have evolved from a simple system that works. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 - If you think good architecture is expensive, try bad architecture.
 - Heaps are binary trees for which every parent node has a value less than or equal to any of its children.
 - all programs can be constructed from just three structures: sequence, selection, and iteration.
